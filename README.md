@@ -1,3 +1,3 @@
 JobOrganizer
-Windows 8 App
 ============
+Windows 8 App
